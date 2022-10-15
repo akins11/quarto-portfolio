@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "main_pjt2.html#tools",
+    "href": "main_pjt2.html#tools",
+    "title": "Portfolio",
+    "section": "Tools",
+    "text": "Tools"
+  },
+  {
+    "objectID": "main_pjt2.html#projects",
+    "href": "main_pjt2.html#projects",
+    "title": "Portfolio",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\nMarket Segmentation Analysis App \n\n\n\nPerforming Market/Customer segmentation analysis using different cluster algorithms. Also involves data downloads and segmentation summary.\n\n\nTool: R\n\n\nCategory: Segmentation Analysis.\n\n\n\n  \n\n\n\n\n\n\n\nMarket Basket Analysis App \n\n\n\nSelecting various similar purchased goods into a group with dashboards and recommendation of basket goods.\n\n\nTool: Python\n\n\nCategory: Segmentation.\n\n\n\n\n  \n\n\n\n\n\n\n\nHotel Management Dashboard \n\n\n\nBreaks down revenue, reservations and guest activities with key insight for making informed decisions.\n\n\n\n  \n\n\n\n\n\n\n\nPM2.5 Sensor Offset Prediction \n\n\n\nUsing Machine Learning to predict particle matter (PM2.5) Sensor offset faults"
+  }
+]

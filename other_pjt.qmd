@@ -21,7 +21,7 @@
 </div>
 <div class="side-r-card">
 <a href="www.shinyio.com">
-    <img src="rfm_seg.png" width="100%" height="510px">
+    <img src="www/image/rfm_seg.png" width="100%" height="510px">
   </a>
 </div>
 </div>
@@ -46,7 +46,7 @@
 </div>
 <div class="side-r-card">
 <a href="www.shinyio.com">
-    <img src="region_sales_lp.png" width="100%" height="510px">
+    <img src="www/image/region_sales_lp.png" width="100%" height="510px">
   </a>
 </div>
 </div>
@@ -71,7 +71,7 @@
 </div>
 <div class="side-r-card">
 <a href="www.shinyio.com">
-    <img src="sales_web.png" width="100%" height="510px">
+    <img src="www/image/sales_web.png" width="100%" height="510px">
   </a>
 </div>
 </div>
@@ -96,7 +96,7 @@
 </div>
 <div class="side-r-card">
 <a href="www.shinyio.com">
-    <img src="guest_review.png" width="100%" height="510px">
+    <img src="www/image/guest_review.png" width="100%" height="510px">
   </a>
 </div>
 </div>
@@ -121,7 +121,7 @@
 </div>
 <div class="side-r-card">
 <a href="www.shinyio.com">
-    <img src="sales_EDA.png" width="100%" height="510px">
+    <img src="www/image/sales_EDA.png" width="100%" height="510px">
   </a>
 </div>
 </div>
