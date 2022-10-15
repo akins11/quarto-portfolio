@@ -1,0 +1,183 @@
+<h3 class="display-3 hr-border"> Other Project </h3>
+
+
+:::: {.grid}
+
+
+::: {.g-col-10 .g-start-2 .side-card}
+<div class="pjt-box-div">
+<div class="pjt-box-col-l">
+<h5>RFM Analysis App<i class="bi bi-code-slash"></i></h5>
+<br>
+<p> Performing Customer Segmentation using Recency, Frequency & Monetary (RFM) analysis.
+</p>
+<p>
+<span class="h6">Tool:</span> <small class="text-muted">R, R Shiny.</small>
+</p>
+<p>
+<span class="h6">Category:</span> <small class="text-muted">Segmentation Analysis.</small>
+</p>
+<p> <a href = "www.mysite.com"><i class="bi bi-file-earmark-code"></i></a></p>
+</div>
+<div class="side-r-card">
+<a href="www.shinyio.com">
+    <img src="rfm_seg.png" width="100%" height="510px">
+  </a>
+</div>
+</div>
+:::
+
+<br>
+
+::: {.g-col-10 .g-start-2 .side-card}
+<div class="pjt-box-div">
+<div class="pjt-box-col-l">
+<h5>Regional Sales Dashboard<i class="bi bi-code-slash"></i></h5>
+<br>
+<p> Insight on Key Performance of various Store From various regions 
+</p>
+<p>
+<span class="h6">Tool:</span> <small class="text-muted">R, R Shiny.</small>
+</p>
+<p>
+<span class="h6">Category:</span> <small class="text-muted">Dashboard.</small>
+</p>
+<p> <a href = "www.mysite.com"><i class="bi bi-file-earmark-code"></i></a></p>
+</div>
+<div class="side-r-card">
+<a href="www.shinyio.com">
+    <img src="region_sales_lp.png" width="100%" height="510px">
+  </a>
+</div>
+</div>
+:::
+
+<br>
+
+::: {.g-col-10 .g-start-2 .side-card}
+<div class="pjt-box-div">
+<div class="pjt-box-col-l">
+<h5>Web Store Sales Prediction<i class="bi bi-robot"></i></h5>
+<br>
+<p> Prediction of Average Sales of each visit to a web cloth fashion store using supervised regression models.
+</p>
+<p>
+<span class="h6">Tool:</span> <small class="text-muted">R, Tidymodels.</small>
+</p>
+<p>
+<span class="h6">Category:</span> <small class="text-muted">Regression, Machine Learning.</small>
+</p>
+<p> <a href = "www.mysite.com"><i class="bi bi-file-earmark-code"></i></a></p>
+</div>
+<div class="side-r-card">
+<a href="www.shinyio.com">
+    <img src="sales_web.png" width="100%" height="510px">
+  </a>
+</div>
+</div>
+:::
+
+<br>
+
+::: {.g-col-10 .g-start-2 .side-card}
+<div class="pjt-box-div">
+<div class="pjt-box-col-l">
+<h5>Hospitality Guest Review<i class="bi bi-code-slash"></i></h5>
+<br>
+<p> Sentiment Analysis on reviews made by guest on the accommodation and overall service.
+</p>
+<p>
+<span class="h6">Tool:</span> <small class="text-muted">Python, NLTK.</small>
+</p>
+<p>
+<span class="h6">Category:</span> <small class="text-muted">NLP.</small>
+</p>
+<p> <a href = "www.mysite.com"><i class="bi bi-file-earmark-code"></i></a></p>
+</div>
+<div class="side-r-card">
+<a href="www.shinyio.com">
+    <img src="guest_review.png" width="100%" height="510px">
+  </a>
+</div>
+</div>
+:::
+
+<br>
+
+::: {.g-col-10 .g-start-2 .side-card}
+<div class="pjt-box-div">
+<div class="pjt-box-col-l">
+<h5>Regional Sales Exploratory Analysis <i class="bi bi-code-slash"></i></h5>
+<br>
+<p> Exploration of Sales Within various regions using SQL quarries  
+</p>
+<p>
+<span class="h6">Tool:</span> <small class="text-muted">SQL.</small>
+</p>
+<p>
+<span class="h6">Category:</span> <small class="text-muted">Exploratory Data Analysis.</small>
+</p>
+<p> <a href = "www.mysite.com"><i class="bi bi-file-earmark-code"></i></a></p>
+</div>
+<div class="side-r-card">
+<a href="www.shinyio.com">
+    <img src="sales_EDA.png" width="100%" height="510px">
+  </a>
+</div>
+</div>
+:::
+
+::::
+
+
+<br>
+<br>
+
+<h3 class="display-6"> Contact </h3>
+
+<footer class="grid footer">
+
+<div class="g-col-4 g-start-2">
+
+<div class="footer-col ts-text">
+<h4 class="footer-header">I am available for:</h4>
+<ul>
+<li>Data analysis.</li>
+<li>Shiny Applications.</li>
+<li>Dash Applications.</li>
+<li>Business Intelligence Dashboards</li>
+<li>Prediction models.</li>
+</ul>
+</div>
+
+</div>
+
+<div class="g-col-3">
+
+<div class="footer-col">
+<h4 class="footer-header">Contact Me</h4>
+<ul class="ul-s">
+<li><a href="www.mysite.com"><i class="bi bi-envelope"></i>    Email</a></li>
+<li><a href="www.mysite.com"><i class="bi bi-whatsapp"></i>    Whatsapp</a></li>
+<li><a href="www.mysite.com"><i class="bi bi-telegram"></i>    Telegram</a></li>
+</ul>
+</div>
+
+</div>
+
+<div class="g-col-3">
+
+<div class="footer-col">
+<h4 class="footer-header">Follow Me</h4>
+
+<div class='social-links'>
+<ul class="ul-s">
+<li><a href="www.mysite.com"><i class='bi bi-twitter'></i></a></li>
+<li><a href="www.mysite.com"><i class='bi bi-linkedin'></i></a></li>
+<li><a href="www.mysite.com"><i class='bi bi-facebook'></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</footer>

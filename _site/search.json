@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ayomide’s Portfolio",
+    "section": "",
+    "text": "body-footer: | This page is brought to you by so so and so"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hi-im-ayomide",
+    "href": "index.html#hi-im-ayomide",
+    "title": "Ayomide’s Portfolio",
+    "section": "Hi!, I’m Ayomide",
+    "text": "Hi!, I’m Ayomide\nI’m a data analytics en….. based in Lagos. I’m a firm believer in using data to address marketing issues and creating better solutions for customers.\n\nprofessional experience\nThis and that"
+  },
+  {
+    "objectID": "main_pjt.html#hi-im-ayomide",
+    "href": "main_pjt.html#hi-im-ayomide",
+    "title": "Ayomide’s Portfolio",
+    "section": "Hi!, I’m Ayomide",
+    "text": "Hi!, I’m Ayomide\nI’m a data analytics en….. based in Lagos. I’m a firm believer in using data to address marketing issues and creating better solutions for customers.\n\nprofessional experience\nThis and that"
+  },
+  {
+    "objectID": "main_pjt.html#tools",
+    "href": "main_pjt.html#tools",
+    "title": "Portfolio",
+    "section": "Tools",
+    "text": "Tools"
+  },
+  {
+    "objectID": "main_pjt.html#projects",
+    "href": "main_pjt.html#projects",
+    "title": "Portfolio",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\nMarket Segmentation Analysis App \n\n\n\nPerforming Market/Customer segmentation analysis using different cluster algorithms. Also involves data downloads and segmentation summary.\n\n\nTool: R, R Shiny.\n\n\nCategory: Segmentation Analysis.\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nMarket Basket Analysis App \n\n\n\nSelecting various similar purchased goods into a group with dashboards and recommendation of basket goods.\n\n\nTool: Python, Dash.\n\n\nCategory: Segmentation Analysis.\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nHotel Management Dashboard \n\n\n\nBreaks down revenue, reservations and guest activities with key insight for making informed decisions.\n\n\nTool: R, Flexdashboard.\n\n\nCategory: Dashboard.\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nPM2.5 Sensor Offset Prediction \n\n\n\nUsing Machine Learning to predict particle matter (PM2.5) Sensor offset faults.\n\n\nTool: Python, Scikit-Learn.\n\n\nCategory: Classification, Machine learning."
+  },
+  {
+    "objectID": "main_pjt2.html#tools",
+    "href": "main_pjt2.html#tools",
+    "title": "Portfolio",
+    "section": "Tools",
+    "text": "Tools"
+  },
+  {
+    "objectID": "main_pjt2.html#projects",
+    "href": "main_pjt2.html#projects",
+    "title": "Portfolio",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\nMarket Segmentation Analysis App \n\n\n\nPerforming Market/Customer segmentation analysis using different cluster algorithms. Also involves data downloads and segmentation summary.\n\n\nTool: R\n\n\nCategory: Segmentation Analysis.\n\n\n\n  \n\n\n\n\n\n\n\nMarket Basket Analysis App \n\n\n\nSelecting various similar purchased goods into a group with dashboards and recommendation of basket goods.\n\n\nTool: Python\n\n\nCategory: Segmentation.\n\n\n\n\n  \n\n\n\n\n\n\n\nHotel Management Dashboard \n\n\n\nBreaks down revenue, reservations and guest activities with key insight for making informed decisions.\n\n\n\n  \n\n\n\n\n\n\n\nPM2.5 Sensor Offset Prediction \n\n\n\nUsing Machine Learning to predict particle matter (PM2.5) Sensor offset faults"
+  },
+  {
+    "objectID": "main_pjt.html#contact",
+    "href": "main_pjt.html#contact",
+    "title": "Portfolio",
+    "section": "Contact",
+    "text": "Contact\n\n\n\n\nI am available for:\n\n\n\nData analysis.\n\n\nShiny Applications.\n\n\nDash Applications.\n\n\nPrediction models.\n\n\nBusiness Intelligence Dashboards\n\n\n\n\n\n\n\nContact Me\n\n\n\nEmail\n\n\nWhatsapp\n\n\nTelegram\n\n\n\n\n\n\n\nFollow Me"
+  },
+  {
+    "objectID": "other_pjt.html#contact",
+    "href": "other_pjt.html#contact",
+    "title": "Portfolio",
+    "section": "Contact",
+    "text": "Contact\n\n\n\n\nI am available for:\n\n\n\nData analysis.\n\n\nShiny Applications.\n\n\nDash Applications.\n\n\nPrediction models.\n\n\nBusiness Intelligence Dashboards\n\n\n\n\n\n\n\nContact Me\n\n\n\nEmail\n\n\nWhatsapp\n\n\nTelegram\n\n\n\n\n\n\n\nFollow Me"
+  }
+]

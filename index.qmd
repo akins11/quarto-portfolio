@@ -1,0 +1,18 @@
+::: {.grid} 
+
+::: {.g-col-12 .home-p}
+
+<h2 class="display-3"> Hi!, I'm Ayomide Akinwande </h2>
+
+<p class="lead">
+A strategic data analyst with a (passion) for developing (operational process) that (solves) business problems, improves business efficiency and delivering actionable insights using (various) analytical tools.
+
+(I Can perform various data tasks) such as data cleaning, exploratory data analysis, data visualization and building machine learning models.
+</p>
+
+
+<a role="button" href="/main_pjt.html" class="btn btn-outline-secondary btn-lg">My Projects</a>
+
+:::
+
+:::

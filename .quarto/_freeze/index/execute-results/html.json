@@ -1,0 +1,14 @@
+{
+  "hash": "e66782a243c26ed291c407493fc691cc",
+  "result": {
+    "markdown": "---\ntitle: \"Ayomide's Portfolio\"\n---\n\n\nbody-footer: |\nThis page is brought to you by so so and so\n\n## Hi!, I'm Ayomide\n\ni'm a data analytics en..... based in Lagos. I'm a firm beliver in using data to address marketing issues and creating better solutions for customers.\n\n### professional experience\n\nThis and that\n\n\n### See my projects.\n\n <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

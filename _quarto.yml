@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio"
+  twitter-card: true
+  search: false
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: main_pjt.qmd
+        text: Project
+      - href: other_pjt.qmd
+        text: Other Project
+      - href: https://google.com
+        text: CV
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+    background: "#FCFCFC"
+    foreground: dark
+
+format:
+  html:
+    theme: 
+      - Zephyr
+      - custom.scss
+    css: styles.css
+    toc: false
+    page-layout: custom
+
+editor: visual
+
