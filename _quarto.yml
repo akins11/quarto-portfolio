@@ -31,5 +31,5 @@ format:
     toc: false
     page-layout: custom
 
-editor: visual
+editor: source
 
