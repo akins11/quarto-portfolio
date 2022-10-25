@@ -96,6 +96,21 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 1px;
 }
 
+.pjt-tools {
+  white-space: nowrap;
+}
+
+.pjt-tools .pd-tu {
+  padding-right: 15px;
+  color: #292929;
+  font-weight: 500;
+}
+.pjt-tools .pd-ct {
+  padding-right: 27px;
+  color: #292929;
+  font-weight: 500;
+}
+
 .center {
   display: block;
   margin-left: auto;
