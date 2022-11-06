@@ -54,7 +54,7 @@
  </div>
 
  <div class="g-col-12 g-col-md-8">
- <a href="www.shinyio.com"><img src="www/image/seg_analysis.png" class="img-fluid" width="100%"  height="490px" alt="market segmentation app"/></a>
+ <a href="https://akinwandeayomide.shinyapps.io/segmentationAnalysisApp/"><img src="www/image/seg_analysis.png" class="img-fluid" width="100%"  height="490px" alt="market segmentation app"/></a>
  </div>
 
  </div>
@@ -87,7 +87,7 @@ Performs market basket analysis using the apriori algorithm which generate assoc
  </div>
 
  <div class="g-col-12 g-col-md-8">
- <a href="www.shinyio.com"><img src="www/image/mba_mba.png" class="img-fluid" width="100%"  height="500px" alt="MBA app"/></a>
+ <a href="https://retail-mba.herokuapp.com/"><img src="www/image/mba_mba.png" class="img-fluid" width="100%"  height="500px" alt="MBA app"/></a>
  </div>
 
  </div>
@@ -124,7 +124,7 @@ Performs market basket analysis using the apriori algorithm which generate assoc
  </div>
 
  <div class="g-col-12 g-col-md-8">
-<a href="www.shinyio.com"> <img src="www/image/pm25_chart.png" class="img-fluid" width="100%" height="500px" alt="pm2.5 sensors data"/></a>
+<a href="https://akins11.github.io/PM2.5-Sensor-Offset-Prediction/"> <img src="www/image/pm25_chart.png" class="img-fluid" width="100%" height="500px" alt="pm2.5 sensors data"/></a>
  </div>
 
  </div>
@@ -163,7 +163,7 @@ Performs market basket analysis using the apriori algorithm which generate assoc
  </div>
 
  <div class="g-col-12 g-col-md-8">
-<a href="www.shinyio.com"> <img src="www/image/rev_mgt.png" class="img-fluid" width="100%" height="500px" alt="dashboard"/> </a>
+<a href="https://akins11.github.io/Hotel-management-dashboard/"> <img src="www/image/rev_mgt.png" class="img-fluid" width="100%" height="500px" alt="dashboard"/> </a>
  </div>
 
  </div>
