@@ -14,7 +14,7 @@ website:
         text: Project
       - href: other_pjt.qmd
         text: Other Project
-      - href: https://google.com
+      - href: https://drive.google.com/file/d/1frZ_-wxQyCSDJU8Vj-oJQGpB0WHXVE0p/view?usp=share_link
         text: CV
       - icon: github
         href: https://github.com/

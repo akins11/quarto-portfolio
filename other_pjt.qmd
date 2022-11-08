@@ -14,7 +14,7 @@
 <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:R, R Shiny.</small></p>
 <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Segmentation Analysis.</small></p>
 <br>
-<p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+<p><a href = "https://github.com/akins11/RFM-analysis-app"><i class="bi bi-file-earmark-code-fill"></i></a></p>
 </div>
   
 <div class="g-col-12 g-col-md-8 side-r-card">
@@ -45,11 +45,11 @@
 <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:R, R Shiny.</small></p>
 <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Dashboard.</small></p>
 <br>
-<p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+<p><a href = "https://github.com/akins11/Regional-Sales-Dashboard"><i class="bi bi-file-earmark-code-fill"></i></a></p>
 </div>
   
 <div class="g-col-12 g-col-md-8 side-r-card">
-<a href="www.shinyio.com"> <img src="www/image/region_sales_lp.png" class="img-fluid" width="100%" height="500px" alt="Sales dashboard"/></a>
+<a href="https://akinwandeayomide.shinyapps.io/regionalSalesDashboard/"> <img src="www/image/region_sales_lp.png" class="img-fluid" width="100%" height="500px" alt="Sales dashboard"/></a>
 </div>
 
 </div>
@@ -76,7 +76,7 @@
 <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:R, Tidymodels.</small></p>
 <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Regression, Machine Learning.</small></p>
 <br>
-<p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+<p><a href = "https://github.com/akins11/web-sales-prediction"><i class="bi bi-file-earmark-code-fill"></i></a></p>
 </div>
   
 <div class="g-col-12 g-col-md-8 side-r-card">
@@ -108,7 +108,7 @@ Sentiment analysis on guests review of their respective host accommodation.
 <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:Python, NLTK.</small></p>
 <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:NLP.</small></p>
 <br>
-<p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+<p><a href = "https://github.com/akins11/hospitality-guest-review"><i class="bi bi-file-earmark-code-fill"></i></a></p>
 </div>
   
 <div class="g-col-12 g-col-md-8 side-r-card">
@@ -140,7 +140,7 @@ Exploring business sales performance within a selected period of time.
 <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:MySQL, Quarto.</small></p>
 <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Exploratory Data Analysis.</small></p>
 <br>
-<p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+<p><a href = "https://github.com/akins11/Exploratory-analysis-using-SQL"><i class="bi bi-file-earmark-code-fill"></i></a></p>
 </div>
   
 <div class="g-col-12 g-col-md-8 side-r-card">

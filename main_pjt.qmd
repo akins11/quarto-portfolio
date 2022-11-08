@@ -50,7 +50,7 @@
  <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:R, R Shiny.</small></p>
  <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Segmentation Analysis.</small></p>
  <br>
- <p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+ <p><a href = "https://github.com/akins11/Segmentation-analysis-app"><i class="bi bi-file-earmark-code-fill"></i></a></p>
  </div>
 
  <div class="g-col-12 g-col-md-8">
@@ -83,7 +83,7 @@ Performs market basket analysis using the apriori algorithm which generate assoc
  <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:Python, Dash.</small></p>
  <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Affinity Analysis.</small></p>
  <br>
- <p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+ <p><a href = "https://github.com/akins11/market-basket-analysis-app"><i class="bi bi-file-earmark-code-fill"></i></a></p>
  </div>
 
  <div class="g-col-12 g-col-md-8">
@@ -120,7 +120,7 @@ Performs market basket analysis using the apriori algorithm which generate assoc
  <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:Python, Scikit-Learn.</small></p>
  <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Classification, Machine learning.</small></p>
  <br>
- <p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+ <p><a href = "https://github.com/akins11/PM2.5-Sensor-Offset-Prediction"><i class="bi bi-file-earmark-code-fill"></i></a></p>
  </div>
 
  <div class="g-col-12 g-col-md-8">
@@ -159,7 +159,7 @@ Performs market basket analysis using the apriori algorithm which generate assoc
  <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:R, Flexdashboard.</small></p>
  <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Dashboard.</small></p>
  <br>
- <p><a href = "www.mysite.com"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+ <p><a href = "https://github.com/akins11/Hotel-management-dashboard"><i class="bi bi-file-earmark-code-fill"></i></a></p>
  </div>
 
  <div class="g-col-12 g-col-md-8">
