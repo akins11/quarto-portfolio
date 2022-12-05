@@ -83,11 +83,11 @@ Performs market basket analysis using the apriori algorithm which generate assoc
  <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:Python, Dash.</small></p>
  <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Affinity Analysis.</small></p>
  <br>
- <p><a href = "https://github.com/akins11/market-basket-analysis-app"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+ <p><a href = "https://github.com/akins11/market-basket-analysis-web-app"><i class="bi bi-file-earmark-code-fill"></i></a></p>
  </div>
 
  <div class="g-col-12 g-col-md-8">
- <a href="https://retail-mba.herokuapp.com/"><img src="www/image/mba_mba.png" class="img-fluid" width="100%"  height="500px" alt="MBA app"/></a>
+ <a href="https://market-basket-analysis.onrender.com"><img src="www/image/mba_mba.png" class="img-fluid" width="100%"  height="500px" alt="MBA app"/></a>
  </div>
 
  </div>
@@ -176,6 +176,47 @@ Performs market basket analysis using the apriori algorithm which generate assoc
 
 <!-- custom content --->
 </div>
+
+<br>
+
+<!-- Project 5 ------------------------------------------------------------>
+<!--- custom content --->
+<div class="other-content">
+
+
+<div class="grid">
+
+ <div class="g-col-12 pjt-box">
+
+ <div class="grid">
+
+ <div class="g-col-12 g-col-md-4">
+ <h5 class="m-pjt-header">Product Analysis Dashboard <i class="bi bi-file-bar-graph"></i></h5>
+ <p>
+ A detailed Report on the profitability of various products, showcasing insights and performance across specific period.
+ </p>
+ <p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:R, Shiny.</small></p>
+ <p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Dashboard.</small></p>
+ <br>
+ <p><a href="https://github.com/akins11/Product-Dashboard"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+ </div>
+
+ <div class="g-col-12 g-col-md-8">
+<a href="https://akinwandeayomide.shinyapps.io/productDashboard/"> <img src="www/image/product_db.png" class="img-fluid" width="100%" height="500px" alt="dashboard"/> </a>
+ </div>
+
+ </div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- custom content --->
+</div>
+
+
 
 <br>  <br>
 

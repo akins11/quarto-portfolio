@@ -11,13 +11,13 @@ website:
       - href: index.qmd
         text: Home
       - href: main_pjt.qmd
-        text: Project
+        text: Projects
       - href: other_pjt.qmd
-        text: Other Project
+        text: Other Projects
       - href: "https://drive.google.com/file/d/1frZ_-wxQyCSDJU8Vj-oJQGpB0WHXVE0p/view?usp=share_link"
         text: CV
       - icon: github
-        href: https://github.com/
+        href: https://github.com/akins11
         aria-label: GitHub
     background: "#FCFCFC"
     foreground: dark

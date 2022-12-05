@@ -1,4 +1,4 @@
-<h3 class="display-3 hr-border">Other Project</h3>
+<h3 class="display-3 hr-border">Other Projects</h3>
 
 <div class="grid">
 
@@ -132,7 +132,7 @@ Sentiment analysis on guests review of their respective host accommodation.
 <div class="grid">
 
 <div class="g-col-12 g-col-md-4">
-<h5>Regional Sales Exploratory Analysis<i class="bi bi-columns-gap"></i></h5>
+<h5>Regional Sales Exploratory Analysis <i class="bi bi-columns-gap"></i></h5>
 <br>
 <p>
 Exploring business sales performance within a selected period of time.
@@ -145,6 +145,36 @@ Exploring business sales performance within a selected period of time.
   
 <div class="g-col-12 g-col-md-8 side-r-card">
 <a href="https://akins11.github.io/Exploratory-analysis-using-SQL/"> <img src="www/image/sales_EDA.png" class="img-fluid" width="100%" height="480px"/></a>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<br>
+
+<div class="grid">
+
+<div class="g-col-12 g-start-1 side-card">
+
+<div class="grid">
+
+<div class="g-col-12 g-col-md-4">
+<h5>Sales Report <i class="bi bi-file-bar-graph"></i></h5>
+<br>
+<p>
+ A concise and insightful report of sales across various regions and periods.
+</p>
+<p class="pjt-tools"><strong class="pd-tu">Tools Used</strong><small class="text-muted">:Power BI.</small></p>
+<p class="pjt-tools"><strong class="pd-ct">Category</strong><small class="text-muted">:Dashboard, Report.</small></p>
+<br>
+<p><a href = "https://github.com/akins11/Sales-Report"><i class="bi bi-file-earmark-code-fill"></i></a></p>
+</div>
+  
+<div class="g-col-12 g-col-md-8 side-r-card">
+<a href="https://github.com/akins11/Sales-Report"> <img src="www/image/dashboard_pb.png" class="img-fluid" width="100%" height="480px"/></a>
 </div>
 
 </div>
